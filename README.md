@@ -1,5 +1,7 @@
-# trailer-tube
-A static web page allowing visitors to browse movies and watch the trailers.
+# Trailer TUBE
+A web page allowing visitors to browse movies and watch their trailers.
+
+The project demonstrates the use of a Movie object class in Python to generate a static webpage, which displays a listing of movies and linked its trailers video on YouTube.
 
 ## Prerequisite
 Python2 should be installed on your machine.
@@ -18,4 +20,6 @@ Run the entertainment.py file
 python entertainment.py
 ```
 
-This will generate trailer_tube.html file which will redirect to the desired website where you can enjoy the trailer of various movies.
+This will generate trailer_tube.html file which will redirect to the desired website where you can enjoy the trailer of various movies. 
+
+TADAAA !!!! Now sit back and browse your favorite movie Trailer.
