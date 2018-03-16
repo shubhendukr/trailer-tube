@@ -11,11 +11,11 @@ Download Python2 from [here](https://www.python.org/download/releases/2.7/)
 ## Getting started
 Open your terminal.
 
-Clone or Download the repository
+* **Clone** or **Download** the repository
 
-In terminal, go to the directory trailer-tube.
+* In terminal, go to the directory **trailer-tube**.
 
-Run the entertainment.py file
+* Run the entertainment.py file
 ```
 python entertainment.py
 ```
