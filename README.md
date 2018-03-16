@@ -15,9 +15,9 @@ Open your terminal.
 
 * In terminal, go to the directory **trailer-tube**.
 
-* Run the entertainment.py file
+* Run the movies.py file
 ```
-python entertainment.py
+python movies.py
 ```
 
 This will generate trailer_tube.html file which will redirect to the *Trailer TUBE website* where you can enjoy the trailer of various movies. 
