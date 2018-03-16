@@ -1,7 +1,7 @@
 # Trailer TUBE
 A web page allowing visitors to browse movies and watch their trailers.
 
-The project demonstrates the use of a Movie object class in Python to generate a static webpage, which displays a listing of movies and linked its trailers video on YouTube.
+The project demonstrates the use of a Movie object class in Python to generate a static webpage, which displays a listing of movies linked to its trailers video on YouTube.
 
 ## Prerequisite
 Python2 should be installed on your machine.
