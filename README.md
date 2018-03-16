@@ -2,7 +2,7 @@
 A static web page allowing visitors to browse movies and watch the trailers.
 
 ## Prerequisite
-Python should be installed on your machine.
+Python2 should be installed on your machine.
 Download from [here](https://www.python.org/download/releases/2.7/)
 
 ## Getting started
