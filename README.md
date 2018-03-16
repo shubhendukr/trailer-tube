@@ -20,6 +20,6 @@ Open your terminal.
 python entertainment.py
 ```
 
-This will generate trailer_tube.html file which will redirect to the desired website where you can enjoy the trailer of various movies. 
+This will generate trailer_tube.html file which will redirect to the *Trailer TUBE website* where you can enjoy the trailer of various movies. 
 
 TADAAA !!!! Now sit back and browse your favorite movie Trailer.
