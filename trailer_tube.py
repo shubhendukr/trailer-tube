@@ -121,7 +121,7 @@ main_page_content = '''
         <div class="modal-content">
           <a href="#" class="hanging-close" data-dismiss="modal"
             aria-hidden="true">
-            <img src="https://goo.gl/mDzDij"/>
+            <img src="http://bit.ly/2bxshf7"/>
           </a>
           <div class="scale-media" id="trailer-video-container">
           </div>
@@ -167,8 +167,10 @@ def create_movie_tiles_content(movies):
             r'(?<=v=)[^&#]+', movie.trailer_youtube_url)
         youtube_id_match = youtube_id_match or re.search(
             r'(?<=be/)[^&#]+', movie.trailer_youtube_url)
-        trailer_youtube_id = youtube_id_match.group(0)
-        if youtube_id_match else None
+        if youtube_id_match:
+            trailer_youtube_id = youtube_id_match.group(0)
+        else:
+            trailer_youtube_id = None
 
         # Append the tile for the movie with its content filled in
         content += movie_tile_content.format(
