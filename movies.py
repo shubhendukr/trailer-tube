@@ -71,3 +71,4 @@ movies = [theory_of_everything, _12_strong, interstellar,
           the_man_who_knew_infinity, me_before_you]
 
 trailer_tube.open_movies_page(movies)
+
