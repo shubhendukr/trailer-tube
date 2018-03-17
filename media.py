@@ -9,7 +9,7 @@ class Movie():
         Args:
         title = a string of the movie's title
         storyline = a string briefly description of movie
-        poster_url = a string containing a URL to movie's poster image
+        poster_image_url = a string containing a URL to movie's poster image
         trailer_youtube_url = a string containing a movie's trailer URL
         """
         self.title = movie_title
