@@ -26,7 +26,7 @@ interstellar = media.Movie(
 avatar = media.Movie(
     "Avatar",
     "A marine on an alien planet",
-    "https://goo.gl/TmjByp",
+    "http://bit.ly/2phPEyO",
     "https://www.youtube.com/watch?v=5PSNL1qE6VY&t=12s")
 
 # Movie 5 : Dunkirk
@@ -40,7 +40,7 @@ dunkirk = media.Movie(
 _300 = media.Movie(
     "300",
     "A fictionalized retellings of the Battle of Thermopylae",
-    "https://goo.gl/x71pJF",
+    "http://bit.ly/2piEvOf",
     "https://www.youtube.com/watch?v=UrIbxk7idYA")
 
 # Movie 7 : Kung Fu Panda
@@ -71,4 +71,3 @@ movies = [theory_of_everything, _12_strong, interstellar,
           the_man_who_knew_infinity, me_before_you]
 
 trailer_tube.open_movies_page(movies)
-
